@@ -1,4 +1,4 @@
-# Overview
+# Bangla-Digit-Recognition-with-Python-TensorFlow-
 
 This repo contains code for the "TensorFlow for poets 2" series of codelabs.
 
@@ -17,4 +17,9 @@ This repo contains simplified and trimmed down version of tensorflow's example i
 * The Tensorflow Mobile version, in `android/tfmobile`, comes from [tensorflow/examples/android/](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples/android).
 
 The `scripts` directory contains helpers for the codelab. Some of these come from the main TensorFlow repository, and are included here so you can use them without also downloading the main TensorFlow repo (they are not part of the TensorFlow `pip` installation).
+
+
+## YouTube video Link:
+[![Car Racing Youtube video](https://github.com/Sakifneoworld/Bangla-Digit-Recognition-with-Python-TensorFlow-/blob/master/Bangla.png)](https://www.youtube.com/watch?v=V_ulNwCVEl8)
+
 
